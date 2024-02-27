@@ -1,0 +1,2082 @@
+{
+    "transactions": {
+        "booked": [
+            {
+                "transactionId": "202402265EQEO6348678",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-4.95",
+                    "currency": "EUR"
+                },
+                "creditorName": "MORE TEA TAPIOL     Espoo",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240224\nMF NRO 74920544056189929990292\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f5a8c07b272ad2521ecb3c59e3a30b0a"
+            },
+            {
+                "transactionId": "202402265EQEO4924423",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-5.31",
+                    "currency": "EUR"
+                },
+                "creditorName": "ESPRESSO HOUSE 1266 TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240224\nMF NRO 74383764055150007957285\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b378ca426cb92d9462a42d8b147bda3b"
+            },
+            {
+                "transactionId": "202402265EQEO4924422",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-2.85",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE RATI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240224\nMF NRO 74383764055120008754676\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f28d9f6303ef216e71cf01c1d3909776"
+            },
+            {
+                "transactionId": "202402265EQEO4924421",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-2.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240224\nMF NRO 74570004056805601486105\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "4fc05390b40a907a45b4645e47b8b191"
+            },
+            {
+                "transactionId": "202402265EQEO4924420",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-5.85",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240224\nMF NRO 74920544055405636717062\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3964b90615cd99766c9b74bc97697a07"
+            },
+            {
+                "transactionId": "202402265EQEO2037834",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-6.40",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240223\nMF NRO 74383764054140002438796\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "ef8c08da3e6b5f883895817501ec5f24"
+            },
+            {
+                "transactionId": "202402265EQEO1037065",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-13.49",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240223\nMF NRO 74592724054308051236129\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "c668d0dab0e34e3023ffe9405bb1d859"
+            },
+            {
+                "transactionId": "202402265EQEO1037064",
+                "bookingDate": "2024-02-26",
+                "valueDate": "2024-02-26",
+                "transactionAmount": {
+                    "amount": "-5.97",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-SUPERMARKET HERKK TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240223\nMF NRO 74920544054279817013661\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "e6a229a4e02873fe41a2988f5053fb5a"
+            },
+            {
+                "transactionId": "202402235EQEO2032819",
+                "bookingDate": "2024-02-23",
+                "valueDate": "2024-02-23",
+                "transactionAmount": {
+                    "amount": "-13.89",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240222\nMF NRO 74383764053140000727118\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "7f43f352d5f7886e7535a3da1281fddb"
+            },
+            {
+                "transactionId": "202402235EQEO1698662",
+                "bookingDate": "2024-02-23",
+                "valueDate": "2024-02-23",
+                "transactionAmount": {
+                    "amount": "-17.31",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TRE-HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240222\nMF NRO 74570004054805402617710\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "af366308b313f77ff266967dd2a03eef"
+            },
+            {
+                "transactionId": "202402215EQEO1619803",
+                "bookingDate": "2024-02-21",
+                "valueDate": "2024-02-21",
+                "transactionAmount": {
+                    "amount": "-14.18",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240220\nMF NRO 74592724051306902998429\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "ed5a0f6da2056b59fc4cde061e431a6c"
+            },
+            {
+                "transactionId": "202402195EQEO2037405",
+                "bookingDate": "2024-02-19",
+                "valueDate": "2024-02-19",
+                "transactionAmount": {
+                    "amount": "-5.30",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240216\nMF NRO 74383764047140003488840\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "65f43212a760003902a4eeae080427fc"
+            },
+            {
+                "transactionId": "202402195EQEO1020371",
+                "bookingDate": "2024-02-19",
+                "valueDate": "2024-02-19",
+                "transactionAmount": {
+                    "amount": "-14.18",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240216\nMF NRO 74592724047305330911621\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b96e66df77adc540162035d6d56643de"
+            },
+            {
+                "transactionId": "202402195EQEO1020370",
+                "bookingDate": "2024-02-19",
+                "valueDate": "2024-02-19",
+                "transactionAmount": {
+                    "amount": "-13.36",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240216\nMF NRO 74920544048548567276622\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "288e319639bbc1a661d17430f27ccf6a"
+            },
+            {
+                "transactionId": "202402165EQEO1749321",
+                "bookingDate": "2024-02-16",
+                "valueDate": "2024-02-16",
+                "transactionAmount": {
+                    "amount": "-22.69",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240215\nMF NRO 74592724046304895421721\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f9613c99c3fc754a5f22b70b4fa715ea"
+            },
+            {
+                "transactionId": "202402155EQEO1646350",
+                "bookingDate": "2024-02-15",
+                "valueDate": "2024-02-15",
+                "transactionAmount": {
+                    "amount": "-2.30",
+                    "currency": "EUR"
+                },
+                "creditorName": "CITY TOKMANNI KOSKI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240214\nMF NRO 74570004046804605811775\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "e7f67d7b33ab60998b9b7002d9e87f69"
+            },
+            {
+                "transactionId": "202402145EQEO1574833",
+                "bookingDate": "2024-02-14",
+                "valueDate": "2024-02-14",
+                "transactionAmount": {
+                    "amount": "-16.80",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*DANIA VANES HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240213\nMF NRO 74541094045072403794233\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "2a8785cd7fba2ba1ceb5b70c265453df"
+            },
+            {
+                "transactionId": "202402125EQEO6354086",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-50.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*THI MINH NG HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240211\nMF NRO 74541094043072354718142\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "7e69c0d9ac92ce2f93f1824b048d2431"
+            },
+            {
+                "transactionId": "202402125EQEO6354085",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-4.99",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240211\nMF NRO 74920544042913960174145\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "74d75ad3e24a1904bcdefb3de53f91e2"
+            },
+            {
+                "transactionId": "202402125EQEO4858035",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-19.29",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240210\nMF NRO 74383764041140004001812\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "58cdca33224a484b0f257eb01d2c0c8b"
+            },
+            {
+                "transactionId": "202402125EQEO4858034",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-5.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "TOKMANNI HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240210\nMF NRO 74570004042804204421756\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "7c4c4a83a82608d25150c58fab7d262a"
+            },
+            {
+                "transactionId": "202402125EQEO4858033",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-13.69",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TRE-HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240210\nMF NRO 74570004042804202980696\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "099932a312147ba32205f983b7020597"
+            },
+            {
+                "transactionId": "202402125EQEO4858032",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-23.85",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240210\nMF NRO 74592724041303047897627\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "890a19af7324267d12e500cc26b3ffcc"
+            },
+            {
+                "transactionId": "202402125EQEO4858031",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-6.61",
+                    "currency": "EUR"
+                },
+                "creditorName": "OY GOLDEN CROP      Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240209\nMF NRO 74920544041700369739201\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "85594c79086cd441540fd64bf203efbf"
+            },
+            {
+                "transactionId": "202402125EQEO4858030",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-1.62",
+                    "currency": "EUR"
+                },
+                "creditorName": "OY GOLDEN CROP      Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240209\nMF NRO 74920544041700368641853\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "8e53e18fe5c3dfc726ac18ce223e68ae"
+            },
+            {
+                "transactionId": "202402125EQEO4858029",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-23.08",
+                    "currency": "EUR"
+                },
+                "creditorName": "Aasia Market Tamper Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240209\nMF NRO 74920544041306202289055\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f29617c19d9a1297e8d53d88a812897d"
+            },
+            {
+                "transactionId": "202402125EQEO1975883",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-2.38",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240209\nMF NRO 74570004041804101767039\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "e7f280e54ea5916791be6730a7256b73"
+            },
+            {
+                "transactionId": "202402125EQEO1975882",
+                "bookingDate": "2024-02-12",
+                "valueDate": "2024-02-12",
+                "transactionAmount": {
+                    "amount": "-4.49",
+                    "currency": "EUR"
+                },
+                "creditorName": "CLAS OHLSON 251     TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240209\nMF NRO 74570004041804134057036\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b9fedff6d588e9c0e5027455a60e0f37"
+            },
+            {
+                "transactionId": "202402095EQEO1639527",
+                "bookingDate": "2024-02-09",
+                "valueDate": "2024-02-09",
+                "transactionAmount": {
+                    "amount": "-400.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*DANIA VANES HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240208\nMF NRO 74541094040072264204954\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b3bb795c732b7cad9a858e59ea2df78c"
+            },
+            {
+                "transactionId": "202402095EQEO1639526",
+                "bookingDate": "2024-02-09",
+                "valueDate": "2024-02-09",
+                "transactionAmount": {
+                    "amount": "-14.18",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240208\nMF NRO 74592724039302159685121\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "04997cb40d1b32508b2c076117307fd0"
+            },
+            {
+                "transactionId": "202402095EQEO1639525",
+                "bookingDate": "2024-02-09",
+                "valueDate": "2024-02-09",
+                "transactionAmount": {
+                    "amount": "-13.61",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240208\nMF NRO 74920544040426401149180\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "095bde1317a846399c984aa5398b20f0"
+            },
+            {
+                "transactionId": "202402095EQEO1639524",
+                "bookingDate": "2024-02-09",
+                "valueDate": "2024-02-09",
+                "transactionAmount": {
+                    "amount": "-17.70",
+                    "currency": "EUR"
+                },
+                "creditorName": "Aasia Market Tamper Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240207\nMF NRO 74920544039242351376068\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3d761d421790b3067d9cbfece65211d3"
+            },
+            {
+                "transactionId": "202402085UTH00280755",
+                "bookingDate": "2024-02-09",
+                "valueDate": "2024-02-09",
+                "transactionAmount": {
+                    "amount": "2177.17",
+                    "currency": "EUR"
+                },
+                "debtorName": "HOOCEE OY",
+                "remittanceInformationUnstructured": "Palkka :09.02.2024\nTran Van",
+                "proprietaryBankTransactionCode": "PALKKA",
+                "internalTransactionId": "170ad18b2e08390ba5b19aa705af9c88"
+            },
+            {
+                "transactionId": "20240208593619276917",
+                "bookingDate": "2024-02-08",
+                "valueDate": "2024-02-08",
+                "transactionAmount": {
+                    "amount": "-291.10",
+                    "currency": "EUR"
+                },
+                "creditorName": "NGUYEN NGOC",
+                "creditorAccount": {
+                    "iban": "FI7513433500084346"
+                },
+                "remittanceInformationUnstructured": "Housing rent",
+                "proprietaryBankTransactionCode": "TILISIIRTO",
+                "internalTransactionId": "3db3d20d42a50b4a8447f9c1b8cc52b7"
+            },
+            {
+                "transactionId": "202402085EQEO1872459",
+                "bookingDate": "2024-02-08",
+                "valueDate": "2024-02-08",
+                "transactionAmount": {
+                    "amount": "-3.20",
+                    "currency": "EUR"
+                },
+                "creditorName": "BACARO DOPPIO TAMPE TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240207\nMF NRO 74570004039803911086469\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3cfc9e43dac8d58a4daefd38c6bccee7"
+            },
+            {
+                "transactionId": "202402065EQEO1574270",
+                "bookingDate": "2024-02-06",
+                "valueDate": "2024-02-06",
+                "transactionAmount": {
+                    "amount": "-3.58",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TRE-HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240205\nMF NRO 74570004037803709830864\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "900abb1731659cece0bb2306decf3ca6"
+            },
+            {
+                "transactionId": "202402065EQEO1574269",
+                "bookingDate": "2024-02-06",
+                "valueDate": "2024-02-06",
+                "transactionAmount": {
+                    "amount": "-14.49",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240205\nMF NRO 74592724036261883084014\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "9cf78ad52b3be9fffc09ef5f819bf456"
+            },
+            {
+                "transactionId": "202402065EQEO1574268",
+                "bookingDate": "2024-02-06",
+                "valueDate": "2024-02-06",
+                "transactionAmount": {
+                    "amount": "-14.49",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240205\nMF NRO 74592724036261868374117\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "9de4e9044a1d8cd2dc309879d09cccf9"
+            },
+            {
+                "transactionId": "202402055EQEO6400200",
+                "bookingDate": "2024-02-05",
+                "valueDate": "2024-02-05",
+                "transactionAmount": {
+                    "amount": "-13.54",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240204\nMF NRO 74592724035300393042426\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b1d72f00427698f03e6f35907ece8f5a"
+            },
+            {
+                "transactionId": "202402055EQEO4951298",
+                "bookingDate": "2024-02-05",
+                "valueDate": "2024-02-05",
+                "transactionAmount": {
+                    "amount": "-32.22",
+                    "currency": "EUR"
+                },
+                "creditorName": "LUCKIEFUN S KOSKIKE TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240203\nMF NRO 74541094035072133678658\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "659d0f3be552a9f1583c35f7f50f94cc"
+            },
+            {
+                "transactionId": "202402055EQEO4951297",
+                "bookingDate": "2024-02-05",
+                "valueDate": "2024-02-05",
+                "transactionAmount": {
+                    "amount": "-9.69",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240203\nMF NRO 74920544034219119176951\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "cfd880bf814e507063da149cbe5531b4"
+            },
+            {
+                "transactionId": "202402055EQEL4128673",
+                "bookingDate": "2024-02-05",
+                "valueDate": "2024-02-05",
+                "transactionAmount": {
+                    "amount": "-23.52",
+                    "currency": "EUR"
+                },
+                "creditorName": "CHEGG  ORDER        8554401323",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240203\nUSD          24,74 KULUT       0,00\nVAIHTOKURSSI 1 EUR =     1,0519 USD\nMF NRO 24492154034715084509093\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f8d1e32b2f36b5ed7a8f48dcddd2290d"
+            },
+            {
+                "transactionId": "202402015EQEO1728351",
+                "bookingDate": "2024-02-01",
+                "valueDate": "2024-02-01",
+                "transactionAmount": {
+                    "amount": "-13.80",
+                    "currency": "EUR"
+                },
+                "creditorName": "QUALITEA KOSKIKESKU TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240131\nMF NRO 74541094032072036357478\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f808d71841daff9aa55d680b77723b8e"
+            },
+            {
+                "transactionId": "202401305EQEO2031047",
+                "bookingDate": "2024-01-30",
+                "valueDate": "2024-01-30",
+                "transactionAmount": {
+                    "amount": "-15.40",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240129\nMF NRO 74383764029130000874912\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "c91064191e8b06969996bab6e67bfafc"
+            },
+            {
+                "transactionId": "202401305EQEO1403031",
+                "bookingDate": "2024-01-30",
+                "valueDate": "2024-01-30",
+                "transactionAmount": {
+                    "amount": "-1.45",
+                    "currency": "EUR"
+                },
+                "creditorName": "SALE HERVANTA       TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240129\nMF NRO 74570004030803013077613\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "1c22c58a28bad4536180e96a5f4a68bd"
+            },
+            {
+                "transactionId": "202401295EQEO6351606",
+                "bookingDate": "2024-01-29",
+                "valueDate": "2024-01-29",
+                "transactionAmount": {
+                    "amount": "-19.90",
+                    "currency": "EUR"
+                },
+                "creditorName": "Telia Prepaid -     SONERA",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240127\nMF NRO 74920544028728610793633\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "13bfc2f8c52c5a9adf09a9c517fb3b99"
+            },
+            {
+                "transactionId": "202401295EQEO4831596",
+                "bookingDate": "2024-01-29",
+                "valueDate": "2024-01-29",
+                "transactionAmount": {
+                    "amount": "-1.85",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE HAME TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240127\nMF NRO 74383764027120005026917\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "1590504d739b741aeed9b8c88e0ca96d"
+            },
+            {
+                "transactionId": "202401295EQEO2035906",
+                "bookingDate": "2024-01-29",
+                "valueDate": "2024-01-29",
+                "transactionAmount": {
+                    "amount": "-13.80",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240126\nMF NRO 74383764026130009468099\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "9eaaf6a3e938baf395230ffaacb72b9e"
+            },
+            {
+                "transactionId": "202401295EQEO2035905",
+                "bookingDate": "2024-01-29",
+                "valueDate": "2024-01-29",
+                "transactionAmount": {
+                    "amount": "-1.90",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240126\nMF NRO 74383764026130009468008\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f6e8085115b8ba714fd2d63c6b6be1e5"
+            },
+            {
+                "transactionId": "202401295EQEO2035904",
+                "bookingDate": "2024-01-29",
+                "valueDate": "2024-01-29",
+                "transactionAmount": {
+                    "amount": "-14.10",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240126\nMF NRO 74383764026130009467992\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f077f7670764a1889aa1a4d95e103fd7"
+            },
+            {
+                "transactionId": "202401295EQEO1963809",
+                "bookingDate": "2024-01-29",
+                "valueDate": "2024-01-29",
+                "transactionAmount": {
+                    "amount": "-27.84",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TRE-HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240126\nMF NRO 74570004027802704459705\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "de04639697a396c8c01cee031a440c4a"
+            },
+            {
+                "transactionId": "202401295EQEO1963808",
+                "bookingDate": "2024-01-29",
+                "valueDate": "2024-01-29",
+                "transactionAmount": {
+                    "amount": "-5.98",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-SUPERMARKET HERKK TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240126\nMF NRO 74920544026905921244876\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "023e152b0e70f90347b4cbdc48f12586"
+            },
+            {
+                "transactionId": "202401265EQEL1086927",
+                "bookingDate": "2024-01-26",
+                "valueDate": "2024-01-26",
+                "transactionAmount": {
+                    "amount": "-5.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "PAYPAL *RICOHFINLAN 35314369001",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240125\nMF NRO 74198814025403181693381\nVARMENTAJA 050",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "4129fbb9ee6dfb26c2b8afbdb68ec6ea"
+            },
+            {
+                "transactionId": "202401255EQEO1551153",
+                "bookingDate": "2024-01-25",
+                "valueDate": "2024-01-25",
+                "transactionAmount": {
+                    "amount": "-22.98",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240124\nMF NRO 74592724024295793601321\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "bf34ec059d085a9ea67e6fb91bdc3dc4"
+            },
+            {
+                "transactionId": "202401255EQEO1551152",
+                "bookingDate": "2024-01-25",
+                "valueDate": "2024-01-25",
+                "transactionAmount": {
+                    "amount": "-15.98",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240124\nMF NRO 74592724024295765289329\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "1a67168f8096b0f0c25e3c1e52f24ae4"
+            },
+            {
+                "transactionId": "202401245EQEO1521668",
+                "bookingDate": "2024-01-24",
+                "valueDate": "2024-01-24",
+                "transactionAmount": {
+                    "amount": "-2.95",
+                    "currency": "EUR"
+                },
+                "creditorName": "Ravintola Newton    Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240123\nMF NRO 74920544024669966170741\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "8549882f5c2733dc651d071162e9da59"
+            },
+            {
+                "transactionId": "202401235EQEO1324595",
+                "bookingDate": "2024-01-23",
+                "valueDate": "2024-01-23",
+                "transactionAmount": {
+                    "amount": "-15.98",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240122\nMF NRO 74592724022294792082429\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b36659e0b1744c8b4d46d3ba4170dc0f"
+            },
+            {
+                "transactionId": "202401225EQEO7028886",
+                "bookingDate": "2024-01-22",
+                "valueDate": "2024-01-22",
+                "transactionAmount": {
+                    "amount": "-2.30",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE RATI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240121\nMF NRO 74383764021120002378572\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "23c51d34bb4ab56efed18c0691ff3c8d"
+            },
+            {
+                "transactionId": "202401225EQEO4778883",
+                "bookingDate": "2024-01-22",
+                "valueDate": "2024-01-22",
+                "transactionAmount": {
+                    "amount": "-6.15",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE HAME TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240120\nMF NRO 74383764020130000112056\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "82b3c814b502fe1a365cb2657fb35e9d"
+            },
+            {
+                "transactionId": "202401225EQEO4778882",
+                "bookingDate": "2024-01-22",
+                "valueDate": "2024-01-22",
+                "transactionAmount": {
+                    "amount": "-6.90",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240119\nMF NRO 74383764020110006923813\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "d7f69943425bda905ddbae94070c34a8"
+            },
+            {
+                "transactionId": "202401225EQEO1943117",
+                "bookingDate": "2024-01-22",
+                "valueDate": "2024-01-22",
+                "transactionAmount": {
+                    "amount": "-12.25",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TRE-HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240119\nMF NRO 74570004020802003033463\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "257de578a53592f105b2a211100f3e5c"
+            },
+            {
+                "transactionId": "202401195EQEO1561817",
+                "bookingDate": "2024-01-19",
+                "valueDate": "2024-01-19",
+                "transactionAmount": {
+                    "amount": "-5.68",
+                    "currency": "EUR"
+                },
+                "creditorName": "TOKMANNI HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240118\nMF NRO 74570004019801910740015\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "d235accae201e92c387936832d396868"
+            },
+            {
+                "transactionId": "202401195EQEO1561816",
+                "bookingDate": "2024-01-19",
+                "valueDate": "2024-01-19",
+                "transactionAmount": {
+                    "amount": "-1.79",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE HERVAN TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240118\nMF NRO 74570004019801908978189\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f00ea97f22fd75698e1e115c785f85d1"
+            },
+            {
+                "transactionId": "202401195EQEO1561815",
+                "bookingDate": "2024-01-19",
+                "valueDate": "2024-01-19",
+                "transactionAmount": {
+                    "amount": "-2.89",
+                    "currency": "EUR"
+                },
+                "creditorName": "SALE HERVANTA       TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240118\nMF NRO 74570004019801912952956\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "db97299f1c47f2b6a81ddbfa2dcd045a"
+            },
+            {
+                "transactionId": "202401185EQEO1571107",
+                "bookingDate": "2024-01-18",
+                "valueDate": "2024-01-18",
+                "transactionAmount": {
+                    "amount": "-2.95",
+                    "currency": "EUR"
+                },
+                "creditorName": "Compass Group Finla Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240117\nMF NRO 74920544018858232154104\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "1fc7558a9f1fe02dea41f320bb2ade99"
+            },
+            {
+                "transactionId": "202401185EQEO1571106",
+                "bookingDate": "2024-01-18",
+                "valueDate": "2024-01-18",
+                "transactionAmount": {
+                    "amount": "-2.98",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240117\nMF NRO 74920544018506320928497\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "06aad4a35a45d91d70f70611800d30c7"
+            },
+            {
+                "transactionId": "202401185EQEO1571105",
+                "bookingDate": "2024-01-18",
+                "valueDate": "2024-01-18",
+                "transactionAmount": {
+                    "amount": "-40.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*MUHAMMAD HA HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240117\nMF NRO 74541094018071651316460\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "82b8dd558807cb00eaafc22083088d7e"
+            },
+            {
+                "transactionId": "202401175EQEO1543516",
+                "bookingDate": "2024-01-17",
+                "valueDate": "2024-01-17",
+                "transactionAmount": {
+                    "amount": "-24.18",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240116\nMF NRO 74592724016292361960320\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "078aceae1cf32f3e8413ef4589de1bd7"
+            },
+            {
+                "transactionId": "202401155EQEO5224086",
+                "bookingDate": "2024-01-15",
+                "valueDate": "2024-01-15",
+                "transactionAmount": {
+                    "amount": "-6.86",
+                    "currency": "EUR"
+                },
+                "creditorName": "SALE HERVANTA       TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240114\nMF NRO 74570004015801510617799\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "31d856446414e3813e6b2ab4bb754e12"
+            },
+            {
+                "transactionId": "202401155EQEO1836170",
+                "bookingDate": "2024-01-15",
+                "valueDate": "2024-01-15",
+                "transactionAmount": {
+                    "amount": "-16.78",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240112\nMF NRO 74570004013801303196862\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "421cf78b59934e2a62a29b511574cdfc"
+            },
+            {
+                "transactionId": "202401155EQEO1836169",
+                "bookingDate": "2024-01-15",
+                "valueDate": "2024-01-15",
+                "transactionAmount": {
+                    "amount": "-2.25",
+                    "currency": "EUR"
+                },
+                "creditorName": "Compass Group Finla Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240112\nMF NRO 74920544013374006181575\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3f5584234119302f3861bc2694587435"
+            },
+            {
+                "transactionId": "202401155EQEO1836168",
+                "bookingDate": "2024-01-15",
+                "valueDate": "2024-01-15",
+                "transactionAmount": {
+                    "amount": "-2.95",
+                    "currency": "EUR"
+                },
+                "creditorName": "Compass Group Finla Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240112\nMF NRO 74920544013307633144277\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3e16dcf8a27a165eca8f6e36031de67b"
+            },
+            {
+                "transactionId": "202401155EQEO1836167",
+                "bookingDate": "2024-01-15",
+                "valueDate": "2024-01-15",
+                "transactionAmount": {
+                    "amount": "-29.88",
+                    "currency": "EUR"
+                },
+                "creditorName": "Aasia Market Tamper Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240111\nMF NRO 74920544012872970232374\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "0d2f7b27b14f07286f8fca2406e1afd4"
+            },
+            {
+                "transactionId": "202401115EQEO1617226",
+                "bookingDate": "2024-01-11",
+                "valueDate": "2024-01-11",
+                "transactionAmount": {
+                    "amount": "-16.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "LUCKIEFUN S KOSKIKE TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240110\nMF NRO 74541094011071474466747\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "269ee6ee1f25cb085db24bf0fad60542"
+            },
+            {
+                "transactionId": "202401115EQEO1617225",
+                "bookingDate": "2024-01-11",
+                "valueDate": "2024-01-11",
+                "transactionAmount": {
+                    "amount": "-5.90",
+                    "currency": "EUR"
+                },
+                "creditorName": "QUALITEA KOSKIKESKU TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240110\nMF NRO 74541094011071474499680\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "e8f22685b11add12df7ef7504cfe6ca0"
+            },
+            {
+                "transactionId": "202401115EQEO1617224",
+                "bookingDate": "2024-01-11",
+                "valueDate": "2024-01-11",
+                "transactionAmount": {
+                    "amount": "-9.96",
+                    "currency": "EUR"
+                },
+                "creditorName": "TAMMERKOSKEN        Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240109\nMF NRO 74920544010236414823127\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "e0e2faf27063646e61cc1662153b5f87"
+            },
+            {
+                "transactionId": "202401105EQEO1590440",
+                "bookingDate": "2024-01-10",
+                "valueDate": "2024-01-10",
+                "transactionAmount": {
+                    "amount": "-10.77",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240109\nMF NRO 74920544009339026613929\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "fbaa0bff8963468e96847124a33aa82c"
+            },
+            {
+                "transactionId": "202401095UTH00288775",
+                "bookingDate": "2024-01-10",
+                "valueDate": "2024-01-10",
+                "transactionAmount": {
+                    "amount": "1689.26",
+                    "currency": "EUR"
+                },
+                "debtorName": "HOOCEE OY",
+                "remittanceInformationUnstructured": "Palkka :10.01.2024\nTran Van",
+                "proprietaryBankTransactionCode": "PALKKA",
+                "internalTransactionId": "80dac3cefecaea857c0c7888cabadca8"
+            },
+            {
+                "transactionId": "202401085EQEO7024817",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-3.40",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL HELSINKI FOR TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240107\nMF NRO 74383764007120000812257\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "34ba39b4245306847665d9a907c30fdd"
+            },
+            {
+                "transactionId": "202401085EQEO6089853",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-31.97",
+                    "currency": "EUR"
+                },
+                "creditorName": "VFI*BAESTYLE OY     VANTAA",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240107\nMF NRO 74541094008071398814779\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "057e82653122bdb6830dab8ddb8034fb"
+            },
+            {
+                "transactionId": "202401085EQEO6089852",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-31.80",
+                    "currency": "EUR"
+                },
+                "creditorName": "VFI*SAIGON CAFE OY  HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240107\nMF NRO 74541094008071398403383\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "c781c0418e62d111eaec0a8d9336faf7"
+            },
+            {
+                "transactionId": "202401085EQEO6089851",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-13.70",
+                    "currency": "EUR"
+                },
+                "creditorName": "Doan Holdings Oy Di Porvoo",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240107\nMF NRO 74920544008547249130874\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b01aeda5afc92b5bcbc4a29e3997fd59"
+            },
+            {
+                "transactionId": "202401085EQEO6089850",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-7.50",
+                    "currency": "EUR"
+                },
+                "creditorName": "Fazer Ravintolat Oy HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240107\nMF NRO 74920544008470335180184\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "9f2a892f2e3c6c969fbd9e4b0e7e68f0"
+            },
+            {
+                "transactionId": "202401085EQEO6089849",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-2.95",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*HELSINGIN S HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240107\nMF NRO 74541094008071395989186\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "8664365fab04af878835194a498b013d"
+            },
+            {
+                "transactionId": "202401085EQEO6089848",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-3.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "R_TAMPERE_Rautatien TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240107\nMF NRO 74987504007001012571042\nVARMENTAJA 050",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "6a16197152b82950e40bca2f8b68b5ca"
+            },
+            {
+                "transactionId": "202401085936190H5300",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-291.10",
+                    "currency": "EUR"
+                },
+                "creditorName": "NGUYEN NGOC",
+                "creditorAccount": {
+                    "iban": "FI7513433500084346"
+                },
+                "remittanceInformationUnstructured": "Housing rent",
+                "proprietaryBankTransactionCode": "TILISIIRTO",
+                "internalTransactionId": "e7d97463ec900bf95573a2c2392ac1a5"
+            },
+            {
+                "transactionId": "202401085EQEO4435641",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-2.39",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240106\nMF NRO 74570004007800706364679\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b489d9abfa43d70ae53005ad6bd24067"
+            },
+            {
+                "transactionId": "202401085EQEO4435640",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-7.09",
+                    "currency": "EUR"
+                },
+                "creditorName": "SALE HERVANTA       TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240106\nMF NRO 74570004007800711222755\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "59c8e3e18087763ffcfaf7fe26b26aac"
+            },
+            {
+                "transactionId": "202401085EQEO1729809",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-27.11",
+                    "currency": "EUR"
+                },
+                "creditorName": "Aasia Market Tamper Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240104\nMF NRO 74920544005125515122827\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "1bccdbfbf7a48bdf0b24011f2076cd40"
+            },
+            {
+                "transactionId": "202401085EQEO1729808",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-40.70",
+                    "currency": "EUR"
+                },
+                "creditorName": "YA TAMPERE          Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240104\nMF NRO 74920544005676343323631\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "781c74d6f74b57b054b14bd3f4f8af32"
+            },
+            {
+                "transactionId": "202401085EQEO1729807",
+                "bookingDate": "2024-01-08",
+                "valueDate": "2024-01-08",
+                "transactionAmount": {
+                    "amount": "-9.90",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240105\nMF NRO 74920544005634469694855\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "9e1817fc063fd38a6fd495456da9e579"
+            },
+            {
+                "transactionId": "202401055EQEO1435785",
+                "bookingDate": "2024-01-05",
+                "valueDate": "2024-01-05",
+                "transactionAmount": {
+                    "amount": "-3.75",
+                    "currency": "EUR"
+                },
+                "creditorName": "VFI*HOOCEE OY       HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240104\nMF NRO 74541094005071327766366\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "349290eaf8b41acc21ad8613292f469c"
+            },
+            {
+                "transactionId": "202401055EQEO1435784",
+                "bookingDate": "2024-01-05",
+                "valueDate": "2024-01-05",
+                "transactionAmount": {
+                    "amount": "-7.08",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240104\nMF NRO 74920544004252953126432\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "a153f9a61661b067be348a11e7319b06"
+            },
+            {
+                "transactionId": "202401045EQEL2028641",
+                "bookingDate": "2024-01-04",
+                "valueDate": "2024-01-04",
+                "transactionAmount": {
+                    "amount": "-23.29",
+                    "currency": "EUR"
+                },
+                "creditorName": "CHEGG  ORDER        8554401323",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240103\nUSD          24,74 KULUT       0,00\nVAIHTOKURSSI 1 EUR =     1,0623 USD\nMF NRO 24492154003713861095946\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b74c101a1d8672aeea49a3ff385d2d4f"
+            },
+            {
+                "transactionId": "202401045EQEO1477490",
+                "bookingDate": "2024-01-04",
+                "valueDate": "2024-01-04",
+                "transactionAmount": {
+                    "amount": "-7.08",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240103\nMF NRO 74920544003028013114613\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "81f5865c49a583a1619bd1ed32156f02"
+            },
+            {
+                "transactionId": "202401035EQEO2027285",
+                "bookingDate": "2024-01-03",
+                "valueDate": "2024-01-03",
+                "transactionAmount": {
+                    "amount": "-36.70",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE RATI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240102\nMF NRO 74383764002130001184130\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "78b0d913fb6687d654eecf487672ff3f"
+            },
+            {
+                "transactionId": "202401035EQEO1410398",
+                "bookingDate": "2024-01-03",
+                "valueDate": "2024-01-03",
+                "transactionAmount": {
+                    "amount": "-3.75",
+                    "currency": "EUR"
+                },
+                "creditorName": "VFI*HOOCEE OY       HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240102\nMF NRO 74541094003071277837060\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "6bbef5f4c84bed2140239eaef6296fe7"
+            },
+            {
+                "transactionId": "202401035EQEO1410397",
+                "bookingDate": "2024-01-03",
+                "valueDate": "2024-01-03",
+                "transactionAmount": {
+                    "amount": "-4.99",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240102\nMF NRO 74920544002320845102952\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "2aa201f06d0c791deeb5c95d1127764b"
+            },
+            {
+                "transactionId": "202401025EQEO8982910",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-6.93",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Hamee Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  240101\nMF NRO 74920544002047144307251\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "7ae6c0ec41e7d997a0014f1ba912ae4a"
+            },
+            {
+                "transactionId": "202401025EQEO8982909",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-7.50",
+                    "currency": "EUR"
+                },
+                "creditorName": "H5 RAVINTOLAT O     Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231231\nMF NRO 74920544001269824826134\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "64965f36a45ee33f88791527662ae092"
+            },
+            {
+                "transactionId": "202401025EQEO8982908",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-7.60",
+                    "currency": "EUR"
+                },
+                "creditorName": "H5 RAVINTOLAT O     Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231231\nMF NRO 74920544001269825831984\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "7896900dd81aa2540cf66ecf685b99e2"
+            },
+            {
+                "transactionId": "202401025EQEO6834053",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-21.06",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231230\nMF NRO 74592723364285821944520\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "a1599e7c7107578af5d4f37f08249fe1"
+            },
+            {
+                "transactionId": "202401025EQEO3926969",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-8.50",
+                    "currency": "EUR"
+                },
+                "creditorName": "VFI*HOOCEE OY       HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231229\nMF NRO 74541093364071188654971\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f9916e935ce44f26e28e9b654b16a20e"
+            },
+            {
+                "transactionId": "202401025EQEO2027891",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-10.60",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231231\nMF NRO 74383763365130008407156\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "194442f1220918103cd72aab5783a5cd"
+            },
+            {
+                "transactionId": "202401025EQEO2027890",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-3.70",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE FI01 TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231231\nMF NRO 74383763365120004872560\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "a91e2f34e4eb0ab8b4e685bb18585494"
+            },
+            {
+                "transactionId": "202401025EQEO1396840",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-24.40",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOMOTOKO RAMEN REST TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231231\nMF NRO 74541094001071239565892\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "baa93ea2f3858a16ada00d1dd6dce57b"
+            },
+            {
+                "transactionId": "202401025EQEO1396839",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-9.10",
+                    "currency": "EUR"
+                },
+                "creditorName": "VFI*PERHEKAUPPA OY  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231231\nMF NRO 74541094001071239147899\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "c98ec086f0d049ba3753a4455c763d6f"
+            },
+            {
+                "transactionId": "202401025EQEO1396838",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-02",
+                "transactionAmount": {
+                    "amount": "-1.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*DINH ANH KH HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231231\nMF NRO 74541094001071234125155\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "bd5b2fe729a3ccc1c6ac10c34203bd13"
+            },
+            {
+                "transactionId": "202401015OPF00114236",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-01",
+                "transactionAmount": {
+                    "amount": "1.00",
+                    "currency": "EUR"
+                },
+                "debtorName": "MobilePay Thành My Lâm",
+                "remittanceInformationUnstructured": "SEPA PIKASIIRTO\nSCIDABAFIHHYRNXNZ8H5M1B\n1243066824\nDABAFIHHXXX",
+                "proprietaryBankTransactionCode": "TILISIIRTO",
+                "internalTransactionId": "20b31b6a004c1a0ac74caa76822ca955"
+            },
+            {
+                "transactionId": "202401015OPF00115114",
+                "bookingDate": "2024-01-02",
+                "valueDate": "2024-01-01",
+                "transactionAmount": {
+                    "amount": "2.50",
+                    "currency": "EUR"
+                },
+                "debtorName": "MobilePay Thành My Lâm",
+                "remittanceInformationUnstructured": "SEPA PIKASIIRTO\nSCIDABAFIHHLRNXNQX2MQ1F\n1243066397\nDABAFIHHXXX",
+                "proprietaryBankTransactionCode": "TILISIIRTO",
+                "internalTransactionId": "0d4c7ec8c80d65992fe3bd792326d290"
+            },
+            {
+                "transactionId": "202312295EQEO2036772",
+                "bookingDate": "2023-12-29",
+                "valueDate": "2023-12-29",
+                "transactionAmount": {
+                    "amount": "-5.60",
+                    "currency": "EUR"
+                },
+                "creditorName": "ESPRESSO HOUSE 1266 TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231228\nMF NRO 74383763362150005588777\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3bcbb1a388c450011657469380a3ce55"
+            },
+            {
+                "transactionId": "202312295EQEO2036771",
+                "bookingDate": "2023-12-29",
+                "valueDate": "2023-12-29",
+                "transactionAmount": {
+                    "amount": "-6.30",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE RATI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231228\nMF NRO 74383763362130006683728\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "2821dd84a56577891d3db2b8402c60e8"
+            },
+            {
+                "transactionId": "202312295EQEO1595311",
+                "bookingDate": "2023-12-29",
+                "valueDate": "2023-12-29",
+                "transactionAmount": {
+                    "amount": "-19.90",
+                    "currency": "EUR"
+                },
+                "creditorName": "Telia Prepaid -     SONERA",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231227\nMF NRO 74920543362032103970048\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "31c5bb7ee6310f6a206a5f36e19d0dae"
+            },
+            {
+                "transactionId": "202312285EQEO1468777",
+                "bookingDate": "2023-12-28",
+                "valueDate": "2023-12-28",
+                "transactionAmount": {
+                    "amount": "-5.25",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE HERVAN TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231227\nMF NRO 74570003362836201714209\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "e81417889f9e15828df69a4d2c353f4c"
+            },
+            {
+                "transactionId": "202312285EQEO1468776",
+                "bookingDate": "2023-12-28",
+                "valueDate": "2023-12-28",
+                "transactionAmount": {
+                    "amount": "-20.66",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231227\nMF NRO 74592723361284662888121\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f72a36eefd6b722ee5a2bf39704da110"
+            },
+            {
+                "transactionId": "202312275EQEO9171459",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-10.25",
+                    "currency": "EUR"
+                },
+                "creditorName": "FINNKINO PLEVNA     TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231226\nMF NRO 74570003361836124283788\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "fcfad1c103559acf2e9384b280a614a1"
+            },
+            {
+                "transactionId": "202312275EQEO9171458",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-55.48",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231226\nMF NRO 74920543360643054287562\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "264c3f0d6308fd3ebeaab4ed554d634b"
+            },
+            {
+                "transactionId": "202312275EQEO9171457",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-10.46",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231226\nMF NRO 74920543360645011142558\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "64135b84efc4305a184e29af0999857c"
+            },
+            {
+                "transactionId": "202312275EQEO7575020",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-24.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*MINH QUOC N HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231225\nMF NRO 74541093360071084540740\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "6ca4c4e0fe1c7673f96e4cd44b520bad"
+            },
+            {
+                "transactionId": "202312275EQEO5806581",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-21.90",
+                    "currency": "EUR"
+                },
+                "creditorName": "Lautapelit.fi Tampe HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231223\nMF NRO 74920543358237539740743\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "518635ec067c96125707cd68c9db5397"
+            },
+            {
+                "transactionId": "202312275EQEO4927959",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-9.95",
+                    "currency": "EUR"
+                },
+                "creditorName": "CARLINGS F19        TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231223\nMF NRO 74383763357120007508245\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "67054f65f14bb1e82a53f5a560329e29"
+            },
+            {
+                "transactionId": "202312275EQEO4927958",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-5.36",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231223\nMF NRO 74570003358835801128279\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "ae9bbd3339f557428bf0b35204267f56"
+            },
+            {
+                "transactionId": "202312275EQEO4927957",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-5.18",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231223\nMF NRO 74570003358835801118551\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "9d266c66f725229f13e62de466693f12"
+            },
+            {
+                "transactionId": "202312275EQEO4927956",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-2.60",
+                    "currency": "EUR"
+                },
+                "creditorName": "R_TAMPERE_Hatanpaea TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231223\nMF NRO 74987503357001155357033\nVARMENTAJA 050",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "2b51296241d04fc22a7da5ef817b767c"
+            },
+            {
+                "transactionId": "202312275EQEO4927955",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-11.08",
+                    "currency": "EUR"
+                },
+                "creditorName": "Aasia Market Tamper Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231222\nMF NRO 74920543357646561851742\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "324224a1b3b425f8a0697504dc4f4170"
+            },
+            {
+                "transactionId": "202312275EQEO2060413",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-38.40",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231222\nMF NRO 74383763356150002918181\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "9b794cc49daddedabb4cf4196775dac5"
+            },
+            {
+                "transactionId": "202312275EQEO1469630",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-40.34",
+                    "currency": "EUR"
+                },
+                "creditorName": "CITY TOKMANNI KOSKI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231222\nMF NRO 74570003357835704331369\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3bbb81bf4eafb5f8b7dc7e0a9ab31e9e"
+            },
+            {
+                "transactionId": "202312275EQEO1469629",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-7.57",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TRE-HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231222\nMF NRO 74570003357835703544392\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "0c799d95754f299f579bb4be8caea296"
+            },
+            {
+                "transactionId": "202312275EQEL1098529",
+                "bookingDate": "2023-12-27",
+                "valueDate": "2023-12-27",
+                "transactionAmount": {
+                    "amount": "-6.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "SumUp  *Eiscafe  Az Oberschona",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231222\nMF NRO 74697693357920012053107\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b7dd8c5e422c3749a4a79ff354a2ffc8"
+            },
+            {
+                "transactionId": "202312215EQEO1090507",
+                "bookingDate": "2023-12-21",
+                "valueDate": "2023-12-21",
+                "transactionAmount": {
+                    "amount": "-20.88",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231220\nMF NRO 74592723354282390891523\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "41c094747e779648b844813a0910c81f"
+            },
+            {
+                "transactionId": "202312205EQEO1039561",
+                "bookingDate": "2023-12-20",
+                "valueDate": "2023-12-20",
+                "transactionAmount": {
+                    "amount": "-12.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "LUCKIEFUN S KOSKIKE TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231219\nMF NRO 74541093354070912192425\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "bfb3027fa16e26deeec979ba3a24b4e0"
+            },
+            {
+                "transactionId": "202312195EQEO2055695",
+                "bookingDate": "2023-12-19",
+                "valueDate": "2023-12-19",
+                "transactionAmount": {
+                    "amount": "-4.50",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE, DUO TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231218\nMF NRO 74383763352140002354507\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3457ff188324fb2668e17fe2545c3a00"
+            },
+            {
+                "transactionId": "202312195EQEO1879054",
+                "bookingDate": "2023-12-19",
+                "valueDate": "2023-12-19",
+                "transactionAmount": {
+                    "amount": "-2.13",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231218\nMF NRO 74570003353835301228269\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "de62f9c90e8465097268586687cd543e"
+            },
+            {
+                "transactionId": "202312195EQEO1879053",
+                "bookingDate": "2023-12-19",
+                "valueDate": "2023-12-19",
+                "transactionAmount": {
+                    "amount": "-4.99",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231218\nMF NRO 74920543352432398877555\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "b22bb9af881242b37c8f415aff34f205"
+            },
+            {
+                "transactionId": "202312185EQEO6709571",
+                "bookingDate": "2023-12-18",
+                "valueDate": "2023-12-18",
+                "transactionAmount": {
+                    "amount": "-7.33",
+                    "currency": "EUR"
+                },
+                "creditorName": "SALE HERVANTA       TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231217\nMF NRO 74570003352835216848855\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "6cedd95e01fed3415be67d093ec53141"
+            },
+            {
+                "transactionId": "202312185EQEO6709570",
+                "bookingDate": "2023-12-18",
+                "valueDate": "2023-12-18",
+                "transactionAmount": {
+                    "amount": "-3.40",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE RATI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231216\nMF NRO 74383763350130000726808\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "5e12b03fbddfb45466a9fff61f64c3b3"
+            },
+            {
+                "transactionId": "202312185EQEO4212978",
+                "bookingDate": "2023-12-18",
+                "valueDate": "2023-12-18",
+                "transactionAmount": {
+                    "amount": "-1.99",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231216\nMF NRO 74570003351835108871537\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "cdfb32e09c1120b21c71659d10eefc09"
+            },
+            {
+                "transactionId": "202312185EQEO4212977",
+                "bookingDate": "2023-12-18",
+                "valueDate": "2023-12-18",
+                "transactionAmount": {
+                    "amount": "-8.39",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Supermarket Ratin Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231216\nMF NRO 74920543350833824140751\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "49af266641fbdddb6162a90e82d228f5"
+            },
+            {
+                "transactionId": "202312155EQEO1772353",
+                "bookingDate": "2023-12-15",
+                "valueDate": "2023-12-15",
+                "transactionAmount": {
+                    "amount": "-23.58",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231214\nMF NRO 74592723348279446081520\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "0199ca9dea5e3691c5ebf75d37721707"
+            },
+            {
+                "transactionId": "202312145EQEO1750465",
+                "bookingDate": "2023-12-14",
+                "valueDate": "2023-12-14",
+                "transactionAmount": {
+                    "amount": "-2.95",
+                    "currency": "EUR"
+                },
+                "creditorName": "Ravintola Newton    Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231213\nMF NRO 74920543348920513142738\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "246ef7f82059126454a8a90796500d62"
+            },
+            {
+                "transactionId": "202312135EQEO1778229",
+                "bookingDate": "2023-12-13",
+                "valueDate": "2023-12-13",
+                "transactionAmount": {
+                    "amount": "-18.98",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231212\nMF NRO 74592723346256613655213\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "779579e751bc502c72475d6029bea990"
+            },
+            {
+                "transactionId": "202312125EQEO1272579",
+                "bookingDate": "2023-12-12",
+                "valueDate": "2023-12-12",
+                "transactionAmount": {
+                    "amount": "-24.20",
+                    "currency": "EUR"
+                },
+                "creditorName": "VFI*PERHEKAUPPA OY  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231211\nMF NRO 74541093346070648712364\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "f0359bf42f2cba439deee3c348dfbce3"
+            },
+            {
+                "transactionId": "202312125EQEO1272578",
+                "bookingDate": "2023-12-12",
+                "valueDate": "2023-12-12",
+                "transactionAmount": {
+                    "amount": "-13.35",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TRE-HERVANTA   TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231208\nMF NRO 74570003345834532703241\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "2c88fb760933969a134e8ff441f28915"
+            },
+            {
+                "transactionId": "202312125EQEL1093364",
+                "bookingDate": "2023-12-12",
+                "valueDate": "2023-12-12",
+                "transactionAmount": {
+                    "amount": "-23.56",
+                    "currency": "EUR"
+                },
+                "creditorName": "OVERLEAF SHARELATEX LONDON",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231211\nMF NRO 74208473345000019162666\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "3f4331bae2708c6c8db5b4527a3db5f8"
+            },
+            {
+                "transactionId": "202312115EQEO7037429",
+                "bookingDate": "2023-12-11",
+                "valueDate": "2023-12-11",
+                "transactionAmount": {
+                    "amount": "-10.26",
+                    "currency": "EUR"
+                },
+                "creditorName": "CINDYN AASIALAINEN  TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231210\nMF NRO 74383763344140003206970\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "82b0740d382550a5491b89c7353dbe1c"
+            },
+            {
+                "transactionId": "202312115EQEO4098525",
+                "bookingDate": "2023-12-11",
+                "valueDate": "2023-12-11",
+                "transactionAmount": {
+                    "amount": "-9.45",
+                    "currency": "EUR"
+                },
+                "creditorName": "NORMAL TAMPERE RATI TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231209\nMF NRO 74383763343130001189501\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "d34b229c0597a3b08dbd512c04c7afc3"
+            },
+            {
+                "transactionId": "202312115EQEO4098524",
+                "bookingDate": "2023-12-11",
+                "valueDate": "2023-12-11",
+                "transactionAmount": {
+                    "amount": "-29.98",
+                    "currency": "EUR"
+                },
+                "creditorName": "GLITTER RATINA      TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231209\nMF NRO 74541093344070563686264\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "d79350b2a14bf71bfa7a8de9953212fd"
+            },
+            {
+                "transactionId": "202312115EQEL4150788",
+                "bookingDate": "2023-12-11",
+                "valueDate": "2023-12-11",
+                "transactionAmount": {
+                    "amount": "-31.99",
+                    "currency": "EUR"
+                },
+                "creditorName": "QUIZLET.COM         510-495-6550",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231209\nMF NRO 24510773344106883188091\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "866816261b3eab38d4d6af432219d769"
+            },
+            {
+                "transactionId": "202312085EQEO1665551",
+                "bookingDate": "2023-12-08",
+                "valueDate": "2023-12-08",
+                "transactionAmount": {
+                    "amount": "-24.38",
+                    "currency": "EUR"
+                },
+                "creditorName": "Wolt Oy             Finland",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231207\nMF NRO 74592723341276349076521\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "8378ce3b0016e5530fde53e883e11ff8"
+            },
+            {
+                "transactionId": "202312075UTH00460759",
+                "bookingDate": "2023-12-08",
+                "valueDate": "2023-12-08",
+                "transactionAmount": {
+                    "amount": "1019.81",
+                    "currency": "EUR"
+                },
+                "debtorName": "HOOCEE OY",
+                "remittanceInformationUnstructured": "Palkka :08.12.2023\nTran Van",
+                "proprietaryBankTransactionCode": "PALKKA",
+                "internalTransactionId": "0cca1ea6d61a9a2b145bd37b6eb0a4a9"
+            },
+            {
+                "transactionId": "202312075EQEO4275978",
+                "bookingDate": "2023-12-07",
+                "valueDate": "2023-12-07",
+                "transactionAmount": {
+                    "amount": "-2.15",
+                    "currency": "EUR"
+                },
+                "creditorName": "SALE HERVANTA       TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231206\nMF NRO 74570003341834116550269\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "1c4cba38d0c767924067944ba2805a20"
+            },
+            {
+                "transactionId": "202312055EQEO1706446",
+                "bookingDate": "2023-12-05",
+                "valueDate": "2023-12-05",
+                "transactionAmount": {
+                    "amount": "-2.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*TAMPEREEN K HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231204\nMF NRO 74541093339070415993360\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "6058ba982f6d7d955a02f659d5662edc"
+            },
+            {
+                "transactionId": "202312055EQEO1706445",
+                "bookingDate": "2023-12-05",
+                "valueDate": "2023-12-05",
+                "transactionAmount": {
+                    "amount": "-2.00",
+                    "currency": "EUR"
+                },
+                "creditorName": "MOB.PAY*TAMPEREEN K HELSINKI",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231204\nMF NRO 74541093339070417247104\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "c4953f49ed4b7cf7bb30f6dfa4f374cf"
+            },
+            {
+                "transactionId": "202312055EQEO1706444",
+                "bookingDate": "2023-12-05",
+                "valueDate": "2023-12-05",
+                "transactionAmount": {
+                    "amount": "-32.33",
+                    "currency": "EUR"
+                },
+                "creditorName": "YA TAMPERE          Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231203\nMF NRO 74920543338746881713806\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "526ed5a5e353b636e7a4b32571d2357e"
+            },
+            {
+                "transactionId": "202312045EQEL7029778",
+                "bookingDate": "2023-12-05",
+                "valueDate": "2023-12-04",
+                "transactionAmount": {
+                    "amount": "-23.42",
+                    "currency": "EUR"
+                },
+                "creditorName": "CHEGG  ORDER        8554401323",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231203\nUSD          24,74 KULUT       0,00\nVAIHTOKURSSI 1 EUR =     1,0564 USD\nMF NRO 24492153337717584282979\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "fab43242691072412fe06fc72dda65b4"
+            },
+            {
+                "transactionId": "202312045EQEO6563069",
+                "bookingDate": "2023-12-05",
+                "valueDate": "2023-12-04",
+                "transactionAmount": {
+                    "amount": "-10.58",
+                    "currency": "EUR"
+                },
+                "creditorName": "LIDL TAMPERE-RATINA TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231203\nMF NRO 74570003338833802478335\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "a277b2a5ec9991bd951b47186905226f"
+            },
+            {
+                "transactionId": "202312045EQEO6563068",
+                "bookingDate": "2023-12-05",
+                "valueDate": "2023-12-04",
+                "transactionAmount": {
+                    "amount": "-12.43",
+                    "currency": "EUR"
+                },
+                "creditorName": "K-Market Ylioppilaa Tampere",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231203\nMF NRO 74920543338949508151042\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "a524edf9e88703b37450a4a53dc2254f"
+            },
+            {
+                "transactionId": "202312045EQEO1308133",
+                "bookingDate": "2023-12-04",
+                "valueDate": "2023-12-04",
+                "transactionAmount": {
+                    "amount": "-4.84",
+                    "currency": "EUR"
+                },
+                "creditorName": "SALE HERVANTA       TAMPERE",
+                "remittanceInformationUnstructured": "492065******6316    OSTOPVM  231201\nMF NRO 74570003336833616585442\nVARMENTAJA 400",
+                "proprietaryBankTransactionCode": "PKORTTIMAKSU",
+                "internalTransactionId": "573d7552bc19c524d2999eddda8ef689"
+            },
+            {
+                "transactionId": "20231203593619015978",
+                "bookingDate": "2023-12-04",
+                "valueDate": "2023-12-03",
+                "transactionAmount": {
+                    "amount": "-291.10",
+                    "currency": "EUR"
+                },
+                "creditorName": "NGUYEN NGOC",
+                "creditorAccount": {
+                    "iban": "FI7513433500084346"
+                },
+                "remittanceInformationUnstructured": "Housing rent",
+                "proprietaryBankTransactionCode": "TILISIIRTO",
+                "internalTransactionId": "c80f8b8ebcf4a98bb2d5494611f40282"
+            }
+        ]
+    }
+}
